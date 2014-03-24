@@ -52,108 +52,11 @@ body{
 
 
 
+
+
+
 /* Index Page */
 
-
-.carousel_item{
-	display: none;
-}
-
-.visible{
-	display: block;
-}
-
-.img1{
-	z-index: 1;
-	background: url(../images/bk1.jpg);
-	background-size: 100% 100%;
-	width: inherit;
-	height: inherit;
-}
-
-.img2{
-	z-index: 2;
-	background-image: url(../images/bk2.jpg);
-	background-size: 100% 100%;
-	height: inherit;
-	width: inherit;
-}
-
-.img3{
-	z-index: 3;
-	background-image: url(../images/bk3.jpg);
-	background-size: 100% 100%;
-	height: inherit;
-	width: inherit;
-}
-
-.img4{
-	z-index: 4;
-	background-image: url(../images/bk4.jpg);
-	background-size: 100% 100%;
-	height: inherit;
-	width: inherit;
-}
-
-.index_section{
-	height: 10em;
-	width: 100%;
-	background: #bbbbbb;
-	opacity: .8;
-	position: absolute;
-	bottom: 7.5em;
-}
-
-.profile{
-	display: inline-block;
-	height: inherit;
-	min-width: 14em;
-	width: 25%;
-	float: left;
-	border-right: 1px solid #aaaaaa;
-	border-left: 4px solid #cccccc;
-}
-
-.profile_pic{
-	padding: 1.5em 0 .2em 4em;
-}
-
-.profile_name{
-	font-size: 1.1em;
-	font-family: muli, serif;
-	padding-left: 2.75em;
-}
-
-.index_nav{
-	display: inline-block;
-	height: inherit;
-	padding-left: 2em;
-	border-left: 1px solid #cccccc;
-}
-
-.nav_list{
-	padding-top: 2em;
-}
-
-.navlinks{
-	font-family: inika, serif;
-	padding: .25em 0;
-
-}
-
-
-/* Index Page End */
-
-
-
-
-
-
-
-
-
-
-/* Porfolio Page */
 
 .portfolio_header{
 	font-family: alexa-std, serif;
@@ -192,13 +95,24 @@ body{
 	display: block;
 }
 
-.filler {
+.title_3d{
+	margin: 1em auto;
+}
+
+.piece_3d{
+	display: block;
+	margin: 0 auto;
+}
+
+.piece_descript{
 	white-space: pre-line;
 	margin: 0 8em;
 	font-size: 1.25em;
 }
 
-/* Portfolio Page End */
+
+/* Index Page End */
+
 
 
 
