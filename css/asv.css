@@ -37,7 +37,7 @@ body{
 
 .main_navlinks{
 	float: left;
-	font-family: inika, serif;
+	font-family: muli, serif;
 	font-size: 1.25em;
 	padding: 1.4em 1em;
 }
@@ -96,7 +96,11 @@ body{
 }
 
 .title_3d{
-	margin: 1em auto;
+	font-size: 1.5em;
+	font-family: inika, serif;
+	font-variant: small-caps;
+	margin: 2em 0 1em;
+	text-align: center;
 }
 
 .piece_3d{
@@ -107,7 +111,8 @@ body{
 .piece_descript{
 	white-space: pre-line;
 	margin: 0 8em;
-	font-size: 1.25em;
+	font-size: 1.1em;
+	text-align: center;
 }
 
 
