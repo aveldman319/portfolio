@@ -29,6 +29,10 @@ body{
 	padding-left: 1em;
 }
 
+.logo{
+	margin: -1em 1em 0 0;
+}
+
 .main_nav_list{
 	height: inherit;
  	margin-left: .25em;
@@ -39,7 +43,7 @@ body{
 	float: left;
 	font-family: muli, serif;
 	font-size: 1.25em;
-	padding: 1.4em 1em;
+	padding: 2.1em 1em 0;
 }
 
 .nav_img{
@@ -95,7 +99,7 @@ body{
 	display: block;
 }
 
-.title_3d{
+.piece_title{
 	font-size: 1.5em;
 	font-family: inika, serif;
 	font-variant: small-caps;
@@ -103,18 +107,25 @@ body{
 	text-align: center;
 }
 
-.piece_3d{
+.piece{
 	display: block;
 	margin: 0 auto;
 }
 
 .piece_descript{
+	font-family: calibri, sans-serif;
+	font-size: .75em;
 	white-space: pre-line;
-	margin: 0 8em;
+	margin: 0 8em 4em;
 	font-size: 1.1em;
 	text-align: center;
 }
 
+.arc_thumb{
+	height: 15%;
+	width: 15%;
+	margin: 1em;
+}
 
 /* Index Page End */
 

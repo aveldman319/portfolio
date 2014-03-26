@@ -1,4 +1,4 @@
-(function soimcCarousel() {
+(function Carousel() {
 	var nextVisible = 1,
 		runCarousel,
 		carouselVideo = document.getElementsByClassName('carousel_video')[0];
